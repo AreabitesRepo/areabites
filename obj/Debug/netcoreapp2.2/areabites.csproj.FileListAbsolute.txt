@@ -1,0 +1,13 @@
+C:\Users\Osezuaheo\source\repos\areabites\obj\Debug\netcoreapp2.2\areabites.csprojAssemblyReference.cache
+C:\Users\Osezuaheo\source\repos\areabites\obj\Debug\netcoreapp2.2\areabites.RazorAssemblyInfo.cache
+C:\Users\Osezuaheo\source\repos\areabites\obj\Debug\netcoreapp2.2\areabites.RazorAssemblyInfo.cs
+C:\Users\Osezuaheo\source\repos\areabites\obj\Debug\netcoreapp2.2\areabites.AssemblyInfoInputs.cache
+C:\Users\Osezuaheo\source\repos\areabites\obj\Debug\netcoreapp2.2\areabites.AssemblyInfo.cs
+C:\Users\Osezuaheo\source\repos\areabites\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Osezuaheo\source\repos\areabites\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Osezuaheo\source\repos\areabites\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Osezuaheo\source\repos\areabites\bin\Debug\netcoreapp2.2\areabites.deps.json
+C:\Users\Osezuaheo\source\repos\areabites\bin\Debug\netcoreapp2.2\areabites.runtimeconfig.json
+C:\Users\Osezuaheo\source\repos\areabites\bin\Debug\netcoreapp2.2\areabites.runtimeconfig.dev.json
+C:\Users\Osezuaheo\source\repos\areabites\bin\Debug\netcoreapp2.2\areabites.dll
+C:\Users\Osezuaheo\source\repos\areabites\obj\Debug\netcoreapp2.2\areabites.RazorTargetAssemblyInfo.cache
